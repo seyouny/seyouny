@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on implementing Machine Learning on Python so that I could create climate change models and incorporate my passion for sustainability into my passion for programming.
-- 🌱 I’m currently learning more about Machine Learning, climate change, algorithms and data structures, and for fun I'm learning about astrophysics and how to play the guitar and . 
+- 🌱 I’m currently learning more about Machine Learning, climate change, algorithms and data structures, and for fun I'm learning about astrophysics and how to play the guitar. 
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I recently picked up how to longboard and play the guitar! I love listening to music (mostly indie)
 - 📫 Reach out to me :v: <br>
